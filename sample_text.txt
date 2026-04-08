@@ -1,0 +1,14 @@
+------ PROJECT CONTACTS LIST ------
+
+Main coordinator: shoaib.baig@company.com
+Assistant: fahad_ali@business.org
+
+Temporary support email: support.team@service.pk
+Old email (inactive): old-email@@wrong.com
+
+Notes:
+- Meeting at 3PM.
+- Call before deadline.
+- Website: https://example.com
+
+Marketing: marketing_dept@brand.net
